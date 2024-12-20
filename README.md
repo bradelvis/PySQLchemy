@@ -108,3 +108,7 @@ add_comment --post_id 10 --name "John Doe" --content "Great post!"
 Conclusion
 The PBMS provides an easy way for blog owners to manage content, categories, and comments with a simple CLI tool. It helps keep posts organized and simplifies content management, all with minimal complexity.
 
+ # link google slides
+ https://docs.google.com/presentation/d/1LByfbmKYxv5PLhrQ26NslDMBAh970y2DjXN_36jiFhs/edit#slide=id.g321534b1738_0_440
+# link for video recording
+https://drive.google.com/file/d/1Jb-eD3_yz4l0uvHTsHUXyQHe82EPNzjk/view
